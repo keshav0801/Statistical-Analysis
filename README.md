@@ -16,7 +16,7 @@ Welcome to the **Statistical Analysis** repository! 🌟 This repository was cre
      - Monte Carlo simulations via transformation from Uniform distibution pseudo random samples.
    - **Objective**: To demonstrate random sample generation and its applications.
 
-### 3. **{File to be named}**
+### 3. **NC_Eco_App_2.ipynb**
    - **Overview**: Focuses on the conversion of pseudo-random samples (drawn from uniform distributions) into various other distributions using:
      - Parametric methods.
      - Non-parametric approaches.
